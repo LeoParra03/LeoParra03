@@ -20,14 +20,16 @@
 * Universidad: Espol
 
 ## Habilidades
-* Idiomas: Inglés y Frances
+* Idiomas: Inglés y Francés
 * Lenguajes de Programación: Python, Java, Css, JavaScript, HTML, Php, C, C++
   
 ## Proyectos
-* [Lista de tus proyectos]
+* [Landing](https://leoparra03.github.io/landing/)
+* [Creador de Emojis](https://github.com/Jeremy-Poveda/Custom-Emoji-Creator.git)
+* [Concesionaria](https://github.com/mfalvarezd/ConcesionariaDeAutos.git)
   
 ## Intereses
 * Programación
-* Deportes (futbol y basket)
+* Deportes (fútbol y basket)
 * Gimnasio
 * Videojuegos

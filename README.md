@@ -5,6 +5,8 @@
 ## Contenido
  
  * [Información personal](#información-personal)
+ * [Educación](#educación)
+ * [Habilidades](#habilidades)
  * [Proyectos](#proyectos)
  * [Intereses](#intereses)
 

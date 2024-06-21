@@ -10,13 +10,24 @@
 
 ## Información personal
 
- * Nombre: [Tu nombre]
- * Ocupación: [Tu ocupación]
- * Lugar de residencia: [Tu lugar de residencia]
- * Sitio web: [Tu sitio web]
+ * Nombre: Washington Leonardo Parra Franco
+ * Ocupación: Ingeniero en Computación
+ * Lugar de residencia: Brisas del Norte
+ * Sitio web: https://leoparra03.github.io/Curriculum/
 
+## Educación
+* Colegio: IPAC
+* Universidad: Espol
+
+## Habilidades
+* Idiomas: Inglés y Frances
+* Lenguajes de Programación: Python, Java, Css, JavaScript, HTML, Php, C, C++
+  
 ## Proyectos
 * [Lista de tus proyectos]
   
 ## Intereses
-* [Lista de tus intereses]
+* Programación
+* Deportes (futbol y basket)
+* Gimnasio
+* Videojuegos

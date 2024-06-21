@@ -4,17 +4,19 @@
 
 ## Contenido
  
-  * [Información personal](#información-personal)
+ * [Información personal](#información-personal)
  * [Proyectos](#proyectos)
  * [Intereses](#intereses)
 
 ## Información personal
 
-  * Nombre: [Tu nombre]
+ * Nombre: [Tu nombre]
  * Ocupación: [Tu ocupación]
  * Lugar de residencia: [Tu lugar de residencia]
  * Sitio web: [Tu sitio web]
- * ## Proyectos
+
+## Proyectos
 * [Lista de tus proyectos]
+  
 ## Intereses
 * [Lista de tus intereses]

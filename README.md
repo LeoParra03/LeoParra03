@@ -13,7 +13,7 @@
  * Nombre: Washington Leonardo Parra Franco
  * Ocupación: Ingeniero en Computación
  * Lugar de residencia: Brisas del Norte
- * Sitio web: https://leoparra03.github.io/Curriculum/
+ * Sitio web: (https://leoparra03.github.io/Curriculum/)
 
 ## Educación
 * Colegio: IPAC

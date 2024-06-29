@@ -4,8 +4,8 @@
 <h3 align="center">Soy un estudiante universitario que le gusta programar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoparra03&label=Profile%20views&color=0e75b6&style=flat" alt="leoparra03" /> </p>
-##Acerca de mi
-
+<h1>Acerca de mi</h1>
+Soy un estudiante universitario de la ESPOl que estudia la carrera de Ingenieria de Computación, Soy apasionado a la tecnología, y estoy siempre buscando estar actualizado en lo mas reciente en tecnologias.
 
 - 🔭 Trabajé en algunos proyectos [landing](https://leoparra03.github.io/landing/)
 

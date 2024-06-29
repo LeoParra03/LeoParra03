@@ -17,6 +17,7 @@ Soy un estudiante universitario de la ESPOl que estudia la carrera de Ingenieria
 
 - 📫 Puedes contactarme por **wlparra@espol.edu.ec**
 <h3>Habilidades</h3>
+
 - 👨‍💻 TypeScript, JavaScript, NodeJS, C#, Python, Java
 
 - ⚙️ React, Angular

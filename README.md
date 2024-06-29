@@ -4,6 +4,8 @@
 <h3 align="center">Soy un estudiante universitario que le gusta programar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoparra03&label=Profile%20views&color=0e75b6&style=flat" alt="leoparra03" /> </p>
+##Acerca de mi
+
 
 - 🔭 Trabajé en algunos proyectos [landing](https://leoparra03.github.io/landing/)
 

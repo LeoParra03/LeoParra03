@@ -40,6 +40,6 @@ Soy un estudiante universitario de la ESPOl que estudia la carrera de Ingenieria
 
 <h3>Estadisticas en GitHub</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=leoparra03&show_icons=true&locale=en" alt="leoparra03" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leoparra03&" alt="leoparra03" /></p>
 
